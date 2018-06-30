@@ -1,4 +1,3 @@
-## dream2
-####Dream Project 2
+MNIST CNN
 
 This project involves **neural networks**
