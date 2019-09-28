@@ -1,3 +1,3 @@
 MNIST CNN
 
-This project involves **neural networks**
+Jupyter Notebook code that looks at **neural networks**
